@@ -7,4 +7,4 @@ This project include :
 - api calling
 - responsive ui
 
-<video src='[your URL here](https://youtube.com/shorts/Y_88jWzWRHA?feature=share)' width=180/>
+<video src='[your URL here](https://youtube.com/shorts/Y_88jWzWRHA?feature=share)' width=180></video>
